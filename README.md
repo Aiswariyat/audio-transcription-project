@@ -11,3 +11,10 @@ This project demonstrates the use of the pretrained `facebook/wav2vec2-base-960h
 ### Model
 - **Wave2Vec2**: A pretrained model optimized for general-purpose English speech transcription.
 
+### Example Output
+- Transcription 1:
+Hello, how can I assist you today?
+
+- Transcription 2:
+Please schedule a meeting for tomorrow at 10 AM.
+
